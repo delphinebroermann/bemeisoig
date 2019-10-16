@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://beegeeshee.gavin-daniel.com/sitemap.xml
